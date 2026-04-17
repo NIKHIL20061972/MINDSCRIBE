@@ -1,0 +1,3 @@
+Mindscribe – AI-Powered Knowledge Companion
+Mindscribe is a lightweight, AI-driven web application inspired by NotebookLM, designed to help users interact with their documents in a smarter way. It allows users to upload notes, PDFs, or text content and generate meaningful insights, summaries, and contextual answers using advanced language models.
+Built with a simple and scalable architecture, Mindscribe focuses on accessibility and efficiency—making it ideal for students, researchers, and hackathon projects. It integrates retrieval-augmented generation (RAG) techniques to provide accurate, context-aware responses based on user-provided data.
